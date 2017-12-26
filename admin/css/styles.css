@@ -1,0 +1,59 @@
+*{
+	padding: 0;
+	margin: 0;
+
+}
+body{
+    background-color:#ffffff; /* #fbef9f */
+}
+
+#ss{
+    margin-left: 30px;
+    
+}
+h2,h4,h3{
+    text-align: center;
+	font-weight: bold;
+	
+    
+}
+h2{
+	font-size:30px;
+	color:#fff;	
+}
+#aa{
+    width: 75px;
+    height: 75px;
+    
+}
+.main_page_well{
+    background-color: #ebeeee; /* #3498db */
+    border-radius: 7px;	
+    border:1px solid #000;
+    border:1px outset #515050;
+	color:#fff;
+    box-shadow: 3px 3px 5px #888888, -3px 3px 5px #888888 ;
+}
+
+.main_page_well:hover{
+	border:1px solid #fff;
+}
+
+#add_student_label{
+	margin-top:5px;
+}
+
+.add_student_well{
+    background-color: #fff;
+    margin-top: 10px;
+    border-radius: 7px;	
+    border:1px solid #000;
+    border:1px outset #515050;
+    
+    box-shadow: 3px 3px 5px #888888, -3px 3px 5px #888888 ;
+}
+.add_student_well:hover{
+	border:1px solid #fff;
+	
+}
+
